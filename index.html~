@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+	<meta content="" name="description" />
+	<meta content="" name="author" />
+	<link href="../../favicon.ico" rel="icon" />
+	<title>Tovah Perrin</title>
+	<!-- Bootstrap core CSS -->
+	<link href="dist/css/bootstrap.css" rel="stylesheet" /><!-- Just for debugging purposes. Don't actually copy these 2 lines! --><!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]--><script src="assets/js/ie-emulation-modes-warning.js"></script><!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><script src="assets/js/ie10-viewport-bug-workaround.js"></script><!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--><!-- Custom styles for this template -->
+	<link href="carousel.css" rel="stylesheet" />
+</head>
+<!-- NAVBAR
+================================================== -->
+<body>
+<div class="navbar-wrapper" id="top" style="background-color:black;">
+<div class="container">
+<div class="navbar navbar-inverse navbar-static-top " role="navigation">
+<div class="container">
+<div class="navbar-header"><a class="navbar-brand" href="#myCarousel" id="portfolio_link">Portfolio</a></div>
+
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
+	<li><a data-toggle="elementscroll" href="#about">About</a></li>
+	<li><a data-toggle="elementscroll" href="#contact">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- Carousel
+    ================================================== -->
+
+<div class="carousel slide" data-ride="carousel" id="myCarousel"><!-- Indicators -->
+<div class="carousel-inner">
+<div class="item active" id="first"><img alt="First slide" src="Tovah/Tovah Perrin Moreno Black Portfolio1.jpg" /></div>
+
+<div class="item"><img alt="Third slide" src="Tovah/Tovah Perrin Moreno Black Portfolio2.jpg" /></div>
+
+<div class="item"><img alt="Fourth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio3.jpg" /></div>
+
+<div class="item"><img alt="Fifth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio4.jpg" /></div>
+
+<div class="item"><img alt="Sixth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio5.jpg" /></div>
+
+<div class="item"><img alt="Seventh slide" src="Tovah/Tovah Perrin Moreno Black Portfolio6.jpg" /></div>
+
+<div class="item"><img alt="Eigth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio7.jpg" /></div>
+
+<div class="item"><img alt="Ninth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio8.jpg" /></div>
+
+<div class="item"><img alt="Tenth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio9.jpg" /></div>
+
+<div class="item"><img alt="Eleventh slide" src="Tovah/Tovah Perrin Moreno Black Portfolio10.jpg" /></div>
+
+<div class="item"><img alt="Twelveth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio11.jpg" /></div>
+
+<div class="item"><img alt="Thirteenth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio12.jpg" /></div>
+
+<div class="item"><img alt="Fourteenth slide" src="Tovah/Tovah Perrin Moreno Black Portfolio13.jpg" /></div>
+</div>
+
+<ol class="carousel-indicators" style="position:relative; margin-top:70px">
+	<li class="active" data-slide-to="0" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="1" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="2" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="3" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="4" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="5" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="6" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="7" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="8" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="9" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="10" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="11" data-target="#myCarousel">&nbsp;</li>
+	<li data-slide-to="12" data-target="#myCarousel">&nbsp;</li>
+</ol>
+<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<!-- /.carousel --><!-- Marketing messaging and featurettes
+    ================================================== --><!-- Wrap the rest of the page in another container to center all the content. -->
+
+<div class="container marketing">
+<hr />
+<div class="row">
+<div class="col-md-7" id="about">
+<h2 style="color:#999">Who am I?<span class="text-muted"> Tovah Perrin</span></h2>
+
+<p class="lead">Welcome! I am a San Francisco based graphic designer, small business owner and crafter!<br />
+Please take a moment to look through my portfolio of work that spans my design career from New York to SF.<br />
+Check out the links to my business <a href="http://lepetithatcompany.com/" target="_blank">Le Petit Hat Company</a>, freelance design with <a href="http://www.paperculture.com/eco/s/tovah-moreno-black.r.html" target="_blank">Paper Culture</a> and <a href="https://www.linkedin.com/in/tovahperrin" target="_blank">LinkedIn</a>.</p>
+</div>
+</div>
+
+<hr />
+<div class="row">
+<div class="col-md-7" id="contact">
+<h2 class="text-muted">Contact me.</h2>
+
+<p class="lead"><a href="mailto:tovahperrin@gmail.com">tovahperrin@gmail.com</a></p>
+</div>
+</div>
+
+<hr /><!-- /END THE FEATURETTES --><!-- FOOTER -->
+<footer>
+<p class="pull-right"><a data-toggle="elementscroll" href="#top">Back to top</a></p>
+
+<p>&copy; 2014 Company, Inc.</p>
+</footer>
+</div>
+<!-- /.container --><!-- Bootstrap core JavaScript
+    ================================================== --><!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="assets/js/docs.min.js"></script>
+    <script>
+      function scrolltocarousel() {
+        $('.carousel').carousel(0);
+        $('html,body').animate({
+              scrollTop: $('#myCarousel').offset().top
+            }, 750);
+      };
+      $(document).ready(function(){
+        $('.carousel').carousel({
+          interval: 10000
+        });
+      });
+      $(function() {
+       $('#portfolio_link').attr('href', 'javascript: scrolltocarousel();');
+       $('[data-toggle="elementscroll"]').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 750);
+              return false;
+            }
+          }
+        });
+      });
+    </script></div>
+</body>
+</html>
